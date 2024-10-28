@@ -1,13 +1,14 @@
 body{
     font-family: 'Inconsolata';
     padding: 0 50px;
-    color: #0b3954;
+    color: #000000;
 }
 
 .name{
     font-family: "karla";
     text-transform: capitalize;
     font-size: 80px;
+    color: #0b3954;
 }
 
 .landing{
@@ -28,6 +29,7 @@ body{
     text-transform: capitalize;
     font-size: 20px;
     padding-top: 20px;
+    color: #0b3954;
 }
 
 .pg_links > a{
@@ -49,4 +51,12 @@ hr{
     background-color: #bfd7ea;
     margin: 10px 0 10px 0;
     border: none;
-  }
+}
+
+.header{
+    color: #0b3954;
+}
+
+.content> div{
+    padding: 5px 0px 5px 0px;
+}
